@@ -93,9 +93,9 @@
     2.  Flip a monochrome bitmap
     3.  [Count bits with lookup table](Data_Struct_Implementation\BitsManipulation\countBitsLookUpTable.md)
     4.  [Length of the Longest Consecutive 1s in Binary Representation](https://www.geeksforgeeks.org/length-longest-consecutive-1s-binary-representation/)
-    5.  [Find most significant set bit of a number](https://www.geeksforgeeks.org/find-significant-set-bit-number/)
-    6.  [Swap two number without temporary varaible](https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/)
-    7.  [Number is a power of 2](https://www.geeksforgeeks.org/bits-manipulation-important-tactics/)
+    5.  GOOD [Find most significant set bit of a number](https://www.geeksforgeeks.org/find-significant-set-bit-number/)
+    6.  GOOD, USE XOR [Swap two number without temporary varaible](https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/)
+    7.  GOOD [Number is a power of 2](https://www.geeksforgeeks.org/bits-manipulation-important-tactics/)
     8.  [Swap all odd and even bits](Data_Struct_Implementation/BitsManipulation/swapOddEvenBIts.md)
     9.  [Find position of the only set bit](Data_Struct_Implementation/BitsManipulation/positionOfSetBit.md)
     10. [Find the element that appears once and other elements appear 3 times](Data_Struct_Implementation/BitsManipulation/singleNumber.md)
